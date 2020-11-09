@@ -6,13 +6,5 @@ You are given a date. You just need to write the method, , which returns the day
 
 For example, if you are given the date , the method should return  as the day on that date.
 
-image
 
-Input Format
-
-A single line of input containing the space separated month, day and year, respectively, in    format.
-
-Constraints
-
-Output Format
 
