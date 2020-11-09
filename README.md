@@ -16,4 +16,3 @@ Constraints
 
 Output Format
 
-Output the correct day in capital letters.
